@@ -19,6 +19,8 @@
     <module>upc-core</module>
     <module>upc-api</module>
     <module>upc-config</module>
+    <module>upc-web</module>
+    <module>upc-test</module>
   </modules>
   <build>
   	<plugins>  
