@@ -7,9 +7,7 @@
     <artifactId>upc</artifactId>
     <version>0.0.1</version>
   </parent>
-  <groupId>com.leojay1.upc</groupId>
   <artifactId>upc-config</artifactId>
-  <version>0.0.1</version>
   <name>upc-config</name>
   <url>http://maven.apache.org</url>
   <properties>
