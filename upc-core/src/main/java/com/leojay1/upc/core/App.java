@@ -1,4 +1,4 @@
-package com.leojay1.upc;
+package com.leojay1.upc.core;
 
 /**
  * Hello world!

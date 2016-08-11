@@ -1,4 +1,4 @@
-package com.leojay1.upc;
+package org.upc.config;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
